@@ -246,7 +246,7 @@ HIGHLIGHTS
 
 #highlights:after,
 #highlights:before {
-  background: url('assets/wave.svg');
+  background: url('assets/assets/wave.svg');
   content: "";
   position: absolute;
   width: 101vw;
